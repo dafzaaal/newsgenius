@@ -350,3 +350,18 @@ a:hover {
   text-align: center;
   
 }
+
+#loginError {
+  color: white;
+  background-color: #000000;
+  border: 2px solid #FFFFFF;
+  padding: 15px 15px 15px 15px;
+}
+
+#createaccerr {
+  color: white;
+  background-color: #000000;
+  border: 2px solid #FFFFFF;
+  padding: 15px 15px 15px 15px;
+  margin-bottom: 50px;
+}
